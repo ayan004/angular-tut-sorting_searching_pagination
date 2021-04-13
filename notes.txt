@@ -1,0 +1,6 @@
+What you can learn from this app?
+- data table
+- filtering
+- sorting
+- searching
+- pagination

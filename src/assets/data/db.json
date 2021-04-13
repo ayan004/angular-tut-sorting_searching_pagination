@@ -1,0 +1,84 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "firstName": "ayan",
+      "lastName": "tah",
+      "email": "ayan@gmail.com",
+      "mobile": "7894561235",
+      "salary": "20000"
+    },
+    {
+      "id": 20,
+      "firstName": "virat",
+      "lastName": "koli",
+      "email": "koli@gmail.com",
+      "mobile": "4859261548",
+      "salary": "200000"
+    },
+    {
+      "id": 3,
+      "firstName": "sibu",
+      "lastName": "saha",
+      "email": "sibu@gmail.com",
+      "mobile": "7485964152",
+      "salary": "15000"
+    },
+    {
+      "id": 4,
+      "firstName": "suku",
+      "lastName": "lop",
+      "email": "suku@gmail.com",
+      "mobile": "7586124895",
+      "salary": "25000"
+    },
+    {
+      "id": 15,
+      "firstName": "jiki",
+      "lastName": "sen",
+      "email": "jikisenu@gmail.com",
+      "mobile": "1238524569",
+      "salary": "30000"
+    },
+    {
+      "id": 66,
+      "firstName": "rakesh",
+      "lastName": "jen",
+      "email": "litti@gmail.com",
+      "mobile": "7412369852",
+      "salary": "30000"
+    },
+    {
+      "id": 27,
+      "firstName": "ajay",
+      "lastName": "seth",
+      "email": "ajaysanti@gmail.com",
+      "mobile": "1245789865",
+      "salary": "15000"
+    },
+    {
+      "id": 18,
+      "firstName": "ritu",
+      "lastName": "sonkar",
+      "email": "sonkar@gmail.com",
+      "mobile": "3265984512",
+      "salary": "30000"
+    },
+    {
+      "id": 9,
+      "firstName": "abir",
+      "lastName": "sen",
+      "email": "abir@gmail.com",
+      "mobile": "4512786532",
+      "salary": "15000"
+    },
+    {
+      "id": 10,
+      "firstName": "ciru",
+      "lastName": "maity",
+      "email": "maitykiry@gmail.com",
+      "mobile": "7894561235",
+      "salary": "17000"
+    }
+  ]
+}
